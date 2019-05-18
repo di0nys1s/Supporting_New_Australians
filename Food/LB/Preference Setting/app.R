@@ -330,7 +330,7 @@ ui <- fluidPage(
                        )),
                        div( style = 'margin-left: -23%; margin-bottom: -2%;border: 1px ;background-color: grey; width: 1px; height: 30px; display:inline-block'),
                        #h5(hr(style = 'margin-left: -10% ;border: 1px solid black; width: 50%')),
-                       a(style = 'margin-right: -20%; font-size: 2rem; margin-left: 5%; color: #3A479B' ,"Click here to explore!", href="http://www.demeter.gq/Home/MiddleEasternCuisine", target="_top")
+                       a(style = 'margin-right: -20%; font-size: 2rem; margin-left: 5%; color: #3A479B' ,"Click here to explore!", href="http://www.demeter.gq/Home/LebaneseCuisine", target="_top")
              )
              
              

@@ -10,7 +10,7 @@ library(leaflet)
 library(tidyverse)
 library(dict)
 library(rgdal)
-library(romato)### zomato api
+
 library(magrittr)
 library(leaflet)
 library(htmltools)
@@ -24,7 +24,7 @@ library(shinyWidgets)
 # library(romato)
 # devtools::install_github('andrewsali/shinycssloaders')
 library(shinycssloaders) # new package 
-library(shinyalert) # new packeges for pop_up
+
 
 
 ####### function to get legal services based on a given suburb
@@ -149,7 +149,7 @@ ui = fluidPage(
                                                     leafletOutput(outputId = "map", width = '100%', height = '560px') %>% withSpinner(type = '6'),
                                                     div(id = 'controls', uiOutput("reset"))
             ),
-            a(style = 'font-size: 1.5rem; color: #3A479B' ,"Comparing suburbs? Click Here", href="http://www.demeter.gq/Home/CompareME", target="_top")
+            a(style = 'font-size: 1.5rem; color: #3A479B' ,"Comparing suburbs? Click Here", href="http://www.demeter.gq/Home/CompareHD", target="_top")
             ), # return button
             # column(1, div(id = 'zoomed', style="margin-top: 100px; float: right", htmlOutput(outputId = 'detail'))), # zoomed in info boses. get information from output$detail
             column(4, offset = 0, 
@@ -744,7 +744,7 @@ server = function(input, output, session){
   output$reset <- renderUI({
     absolutePanel(id = "controls", top = "auto", left = 50, 
                   right = "auto", bottom = 70, width = "auto", height = "auto",
-                  actionButton(inputId = "reset_button", label = "Back to Overview Map", class = "btn-primary")  # can style the button here 
+                  actionButton(inputId = "reset_button", label = "Back", class = "btn-primary")  # can style the button here 
     )
   })
   

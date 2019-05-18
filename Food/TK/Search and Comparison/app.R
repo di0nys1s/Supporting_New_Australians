@@ -4,19 +4,6 @@
 
 
 
-# split <- list('Ferntree GullyUpper Ferntree Gully', 'Surrey HillsCanterbury','Surrey HillsMont Albert')
-# update_suburb_name <- function(suburb_name){
-#   if (suburb_name == split[1]){
-#     suburb_name = 'Upper Ferntree Gully'
-#   }
-#   if (suburb_name == split[2]){
-#     suburb_name = 'Surrey Hills Canterbury'
-#   }
-#   if (suburb_name == split[3]){
-#     suburb_name = 'Surrey Hills Mont Albert'
-#   }
-#   return(suburb_name)
-# }
 
 
 

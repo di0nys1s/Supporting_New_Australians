@@ -1,5 +1,7 @@
 
-#######  Hair - Search and Comparison Plan
+###################################
+#Hair - Search and Comparison Plan#
+###################################
 
 
 

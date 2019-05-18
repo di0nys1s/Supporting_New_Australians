@@ -5,8 +5,8 @@ account: tongguoshuanlou
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 924984
-bundleId: 2093059
+bundleId: 2093486
 url: https://tongguoshuanlou.shinyapps.io/Default_Map_ME/
-when: 1558145087.60035
+when: 1558182770.6057
 asMultiple: FALSE
 asStatic: FALSE

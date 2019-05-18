@@ -5,8 +5,8 @@ account: tongguoshuanlou
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 924975
-bundleId: 2081798
+bundleId: 2093546
 url: https://tongguoshuanlou.shinyapps.io/Recommendation_Preferences_LB/
-when: 1557789284.52871
+when: 1558186553.90867
 asMultiple: FALSE
 asStatic: FALSE

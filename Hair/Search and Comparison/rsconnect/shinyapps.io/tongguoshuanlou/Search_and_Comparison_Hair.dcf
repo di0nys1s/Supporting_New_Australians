@@ -5,8 +5,8 @@ account: tongguoshuanlou
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 924960
-bundleId: 2078327
+bundleId: 2093565
 url: https://tongguoshuanlou.shinyapps.io/Search_and_Comparison_Hair/
-when: 1557662399.44491
+when: 1558188342.47708
 asMultiple: FALSE
 asStatic: FALSE
