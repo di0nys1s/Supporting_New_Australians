@@ -1,0 +1,12 @@
+name: IT3_Defaul_map
+title: IT3_Defaul_map
+username:
+account: tongguoshuanlou
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 904874
+bundleId: 2074226
+url: https://tongguoshuanlou.shinyapps.io/IT3_Defaul_map/
+when: 1557463310.33599
+asMultiple: FALSE
+asStatic: FALSE

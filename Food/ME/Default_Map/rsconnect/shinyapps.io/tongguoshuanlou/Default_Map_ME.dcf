@@ -1,0 +1,12 @@
+name: Default_Map_ME
+title: Default_Map_ME
+username:
+account: tongguoshuanlou
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 924984
+bundleId: 2093059
+url: https://tongguoshuanlou.shinyapps.io/Default_Map_ME/
+when: 1558145087.60035
+asMultiple: FALSE
+asStatic: FALSE

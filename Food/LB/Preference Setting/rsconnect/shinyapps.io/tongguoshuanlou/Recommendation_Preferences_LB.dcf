@@ -1,0 +1,12 @@
+name: Recommendation_Preferences_LB
+title: Recommendation_Preferences_LB
+username:
+account: tongguoshuanlou
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 924975
+bundleId: 2081798
+url: https://tongguoshuanlou.shinyapps.io/Recommendation_Preferences_LB/
+when: 1557789284.52871
+asMultiple: FALSE
+asStatic: FALSE

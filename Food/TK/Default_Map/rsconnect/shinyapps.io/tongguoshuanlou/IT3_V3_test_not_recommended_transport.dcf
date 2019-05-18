@@ -1,0 +1,12 @@
+name: IT3_V3_test_not_recommended_transport
+title: IT3_V3_test_not_recommended_transport
+username:
+account: tongguoshuanlou
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 902448
+bundleId: 2052153
+url: https://tongguoshuanlou.shinyapps.io/IT3_V3_test_not_recommended_transport/
+when: 1556702941.79983
+asMultiple: FALSE
+asStatic: FALSE

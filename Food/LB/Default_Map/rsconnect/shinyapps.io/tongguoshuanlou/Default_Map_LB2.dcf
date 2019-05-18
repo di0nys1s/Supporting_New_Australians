@@ -1,0 +1,12 @@
+name: Default_Map_LB2
+title: Default_Map_LB2
+username:
+account: tongguoshuanlou
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 930372
+bundleId: 2085102
+url: https://tongguoshuanlou.shinyapps.io/Default_Map_LB2/
+when: 1557886894.26049
+asMultiple: FALSE
+asStatic: FALSE

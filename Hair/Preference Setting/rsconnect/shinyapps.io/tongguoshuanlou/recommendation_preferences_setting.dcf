@@ -1,0 +1,12 @@
+name: recommendation_preferences_setting
+title: recommendation_preferences_setting
+username:
+account: tongguoshuanlou
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 913972
+bundleId: 2086123
+url: https://tongguoshuanlou.shinyapps.io/recommendation_preferences_setting/
+when: 1557924265.65736
+asMultiple: FALSE
+asStatic: FALSE

@@ -1,0 +1,10 @@
+name: recommendation_preference
+title:
+username:
+account: tinghsu
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 906288
+bundleId: 2056448
+url: https://tinghsu.shinyapps.io/recommendation_preference/
+when: 1556836835.38716
