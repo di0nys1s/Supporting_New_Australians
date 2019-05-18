@@ -299,7 +299,7 @@ server = function(input, output, session){
     paste("")
   })
   
-
+#nnnnnnnnnnnnnnnnnnnnnnnnnnn
   
   startup <- reactiveVal(0)
   is_zoomed <- reactiveVal(FALSE) # new code: to track whether is zoomed in view or not to disable mouseover
