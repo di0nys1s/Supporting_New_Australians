@@ -2,7 +2,7 @@
 
 ### This is a component work of 'Demeter' web-application project
 'Demeter' is a website to support Melbourne refugee women to find good places for busienss settlement. It is a web-applciation embed interactive data visualization based on shiny.App.
-This part work is almost about shiny Apps development, data wrangling, API handling.
+This part work is almost about ***shiny Apps development, data wrangling, API handling***.
 
 ### There two folders among all shiny Apps: 'Food' and 'Hair';
 ***'Food'*** contains shiny Apps for restaurants of Middle Eastern, Turkish and Lenbanese cuisines in Great Melbourne.\n
